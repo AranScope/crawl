@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/AranScope/crawl.svg?branch=master)](https://travis-ci.org/AranScope/crawl)
 # crawl
 A Node web crawler.
 
