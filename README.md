@@ -4,7 +4,7 @@ A Node web crawler.
 
 Crawl is a minimal web crawler, that helps you steal that perfect font, uncover your friends cv's or improve your style(.css).
 
-## technical details
+## Technical details
 Crawl uses the following node modules
 - request (for get requests to download the pages)
 - promise (for async callbacks)
@@ -19,7 +19,7 @@ All operations are performed asynchronously, through either passing callbacks or
 The recursive depth can be configured, try to keep this low as is still useful for high speed.
 
 
-## give it a go
+## Give it a go
 cd into crawl and run ```npm install``` to get all of the dependencies.
 
 You can find an example usage inside ```index.js```. Crawl outputs JSON, you can prettify this using the json-prettify module or lots of sites online. You can run this with ```node index.js```
