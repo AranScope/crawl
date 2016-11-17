@@ -70,7 +70,8 @@ Tests are included in ```tests/tests.js```, they're written using the super cool
          "https://bede.io/#",
          "https://bede.io/",
          "https://bede.io/tag/hacking-team/",
-         "https://bede.io/tag/textgame/",..........
+         "https://bede.io/tag/textgame/"...
+         
 ```
 
 
